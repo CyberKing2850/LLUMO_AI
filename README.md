@@ -33,18 +33,14 @@
 ---
 
 ## 📁 Project Structure
-live-poll-battle
-├── server1             
-│   └── index.js
-├── react-client
-│   ├── src
-│   │   ├── App.js
-│   │   └── App.css
-│   └── public
+live-poll-battle/
+├── client/             ✅ React frontend (rename react-client → client)
+│   ├── src/
 │   └── package.json
-└── README.md
-
----
+│   └── README.md (optional, can delete if you're using root README.md)
+├── server/             ✅ NodeJS backend (rename server1 → server)
+│   └── index.js
+├── README.md           ✅ Main project README
 
 ## 💻 Local Setup
 
