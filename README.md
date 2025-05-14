@@ -32,22 +32,19 @@
 
 ---
 ## 📁 Project Structure
-live-poll-battle/
-├── client/                 # React frontend
-│   ├── src/
-│   │   ├── App.js
-│   │   └── App.css
-│   ├── public/
-│   ├── package.json
-│   └── README.md (optional)
-│
-├── server/                 # Node.js backend
-│   ├── index.js
-│   └── package.json
-│
-└── README.md               # Main project README
 
+- client/ — React frontend
+  - src/
+    - App.js
+    - App.css
+  - public/
+  - package.json
 
+- server/ — Node.js WebSocket backend
+  - index.js
+  - package.json
+
+- README.md — main project documentation
 ## 💻 Local Setup
 
 ### 🖥️ Backend (WebSocket Server)
