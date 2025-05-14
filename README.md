@@ -34,9 +34,9 @@
 
 ## 📁 Project Structure
 live-poll-battle
-├── server1             # WebSocket backend (Node.js)
+├── server1             
 │   └── index.js
-├── react-client        # React frontend
+├── react-client
 │   ├── src
 │   │   ├── App.js
 │   │   └── App.css
