@@ -7,7 +7,6 @@
 ## 🚀 Live Demo
 
 - **Backend (WebSocket API)**: [Render Live URL](https://your-render-url.onrender.com)
-- **Frontend**: _(optional if deployed)_
 
 ---
 
@@ -21,12 +20,6 @@
 - Countdown timer (60s) after which voting is disabled.
 - Vote is remembered even on page refresh.
 
-### ✨ Bonus Features
-- 🌗 Light/Dark mode toggle (saved to localStorage)
-- 🥧 Pie chart visualization of vote results (`react-chartjs-2`)
-- 💄 Clean, responsive, emoji-enhanced UI
-
----
 
 ## ⚙️ Tech Stack
 
@@ -40,14 +33,14 @@
 ---
 
 ## 📁 Project Structure
-live-poll-battle/
-├── server1/             # WebSocket backend (Node.js)
+live-poll-battle
+├── server1             # WebSocket backend (Node.js)
 │   └── index.js
-├── react-client/        # React frontend
-│   ├── src/
+├── react-client        # React frontend
+│   ├── src
 │   │   ├── App.js
 │   │   └── App.css
-│   └── public/
+│   └── public
 │   └── package.json
 └── README.md
 
