@@ -6,7 +6,7 @@
 
 ## 🚀 Live Demo
 
-- **Backend (WebSocket API)**: [Render Live URL](https://your-render-url.onrender.com)
+- **Backend (WebSocket API)**: [Render Live URL](https://llumo-ai-live-poll-app.onrender.com)
 
 ---
 
