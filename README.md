@@ -31,10 +31,9 @@
 | Deployment  | Render (Backend), Vercel (Frontend optional) |
 
 ---
-<details>
-<summary>📁 <strong>Project Structure</strong></summary>
+## 📁 Project Structure
 live-poll-battle/
-├── client/                 # ✅ React frontend
+├── client/                 # React frontend
 │   ├── src/
 │   │   ├── App.js
 │   │   └── App.css
@@ -42,14 +41,13 @@ live-poll-battle/
 │   ├── package.json
 │   └── README.md (optional)
 │
-├── server/                 # ✅ Node.js backend
+├── server/                 # Node.js backend
 │   ├── index.js
 │   └── package.json
 │
-└── README.md               # ✅ Main project README
+└── README.md               # Main project README
 
-</details>
-  
+
 ## 💻 Local Setup
 
 ### 🖥️ Backend (WebSocket Server)
