@@ -33,8 +33,6 @@
 ---
 <details>
 <summary>📁 <strong>Project Structure</strong></summary>
-
-## 📁 Project Structure
 live-poll-battle/
 ├── client/                 # ✅ React frontend
 │   ├── src/
@@ -49,7 +47,9 @@ live-poll-battle/
 │   └── package.json
 │
 └── README.md               # ✅ Main project README
+
 </details>
+  
 ## 💻 Local Setup
 
 ### 🖥️ Backend (WebSocket Server)
